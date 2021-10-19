@@ -1,0 +1,16 @@
+C:\Users\Robinson.Orrego\Documents\c#\mayor de dos numeros\mayor de dos numeros\bin\Debug\net5.0\mayor de dos numeros.exe
+C:\Users\Robinson.Orrego\Documents\c#\mayor de dos numeros\mayor de dos numeros\bin\Debug\net5.0\mayor de dos numeros.deps.json
+C:\Users\Robinson.Orrego\Documents\c#\mayor de dos numeros\mayor de dos numeros\bin\Debug\net5.0\mayor de dos numeros.runtimeconfig.json
+C:\Users\Robinson.Orrego\Documents\c#\mayor de dos numeros\mayor de dos numeros\bin\Debug\net5.0\mayor de dos numeros.runtimeconfig.dev.json
+C:\Users\Robinson.Orrego\Documents\c#\mayor de dos numeros\mayor de dos numeros\bin\Debug\net5.0\mayor de dos numeros.dll
+C:\Users\Robinson.Orrego\Documents\c#\mayor de dos numeros\mayor de dos numeros\bin\Debug\net5.0\ref\mayor de dos numeros.dll
+C:\Users\Robinson.Orrego\Documents\c#\mayor de dos numeros\mayor de dos numeros\bin\Debug\net5.0\mayor de dos numeros.pdb
+C:\Users\Robinson.Orrego\Documents\c#\mayor de dos numeros\mayor de dos numeros\obj\Debug\net5.0\mayor de dos numeros.csproj.AssemblyReference.cache
+C:\Users\Robinson.Orrego\Documents\c#\mayor de dos numeros\mayor de dos numeros\obj\Debug\net5.0\mayor de dos numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robinson.Orrego\Documents\c#\mayor de dos numeros\mayor de dos numeros\obj\Debug\net5.0\mayor de dos numeros.AssemblyInfoInputs.cache
+C:\Users\Robinson.Orrego\Documents\c#\mayor de dos numeros\mayor de dos numeros\obj\Debug\net5.0\mayor de dos numeros.AssemblyInfo.cs
+C:\Users\Robinson.Orrego\Documents\c#\mayor de dos numeros\mayor de dos numeros\obj\Debug\net5.0\mayor de dos numeros.csproj.CoreCompileInputs.cache
+C:\Users\Robinson.Orrego\Documents\c#\mayor de dos numeros\mayor de dos numeros\obj\Debug\net5.0\mayor de dos numeros.dll
+C:\Users\Robinson.Orrego\Documents\c#\mayor de dos numeros\mayor de dos numeros\obj\Debug\net5.0\ref\mayor de dos numeros.dll
+C:\Users\Robinson.Orrego\Documents\c#\mayor de dos numeros\mayor de dos numeros\obj\Debug\net5.0\mayor de dos numeros.pdb
+C:\Users\Robinson.Orrego\Documents\c#\mayor de dos numeros\mayor de dos numeros\obj\Debug\net5.0\mayor de dos numeros.genruntimeconfig.cache

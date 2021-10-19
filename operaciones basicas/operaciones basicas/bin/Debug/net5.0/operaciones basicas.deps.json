@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "operaciones basicas/1.0.0": {
+        "runtime": {
+          "operaciones basicas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "operaciones basicas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

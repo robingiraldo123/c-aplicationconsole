@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FUNCIONES BÁSICAS LIBRERÍA MATH", "FUNCIONES BÁSICAS LIBRERÍA MATH\FUNCIONES BÁSICAS LIBRERÍA MATH.csproj", "{E385A96B-B93A-44E2-8FE7-A4C7CBECA943}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E385A96B-B93A-44E2-8FE7-A4C7CBECA943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E385A96B-B93A-44E2-8FE7-A4C7CBECA943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E385A96B-B93A-44E2-8FE7-A4C7CBECA943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E385A96B-B93A-44E2-8FE7-A4C7CBECA943}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CF6F525-1536-4546-A0BA-07FA56AE537D}
+	EndGlobalSection
+EndGlobal

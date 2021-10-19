@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FUNCIONES BÁSICAS LIBRERÍA MATH/1.0.0": {
+        "runtime": {
+          "FUNCIONES BÁSICAS LIBRERÍA MATH.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FUNCIONES BÁSICAS LIBRERÍA MATH/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

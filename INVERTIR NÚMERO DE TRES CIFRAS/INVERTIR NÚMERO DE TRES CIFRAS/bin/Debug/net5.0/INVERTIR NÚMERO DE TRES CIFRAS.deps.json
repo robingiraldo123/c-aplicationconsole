@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "INVERTIR NÚMERO DE TRES CIFRAS/1.0.0": {
+        "runtime": {
+          "INVERTIR NÚMERO DE TRES CIFRAS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "INVERTIR NÚMERO DE TRES CIFRAS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

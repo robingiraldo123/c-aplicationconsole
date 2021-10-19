@@ -1,0 +1,16 @@
+C:\Users\Robinson.Orrego\Documents\c#\compra en restaurante\compra en restaurante\bin\Debug\net5.0\compra en restaurante.exe
+C:\Users\Robinson.Orrego\Documents\c#\compra en restaurante\compra en restaurante\bin\Debug\net5.0\compra en restaurante.deps.json
+C:\Users\Robinson.Orrego\Documents\c#\compra en restaurante\compra en restaurante\bin\Debug\net5.0\compra en restaurante.runtimeconfig.json
+C:\Users\Robinson.Orrego\Documents\c#\compra en restaurante\compra en restaurante\bin\Debug\net5.0\compra en restaurante.runtimeconfig.dev.json
+C:\Users\Robinson.Orrego\Documents\c#\compra en restaurante\compra en restaurante\bin\Debug\net5.0\compra en restaurante.dll
+C:\Users\Robinson.Orrego\Documents\c#\compra en restaurante\compra en restaurante\bin\Debug\net5.0\ref\compra en restaurante.dll
+C:\Users\Robinson.Orrego\Documents\c#\compra en restaurante\compra en restaurante\bin\Debug\net5.0\compra en restaurante.pdb
+C:\Users\Robinson.Orrego\Documents\c#\compra en restaurante\compra en restaurante\obj\Debug\net5.0\compra en restaurante.csproj.AssemblyReference.cache
+C:\Users\Robinson.Orrego\Documents\c#\compra en restaurante\compra en restaurante\obj\Debug\net5.0\compra en restaurante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robinson.Orrego\Documents\c#\compra en restaurante\compra en restaurante\obj\Debug\net5.0\compra en restaurante.AssemblyInfoInputs.cache
+C:\Users\Robinson.Orrego\Documents\c#\compra en restaurante\compra en restaurante\obj\Debug\net5.0\compra en restaurante.AssemblyInfo.cs
+C:\Users\Robinson.Orrego\Documents\c#\compra en restaurante\compra en restaurante\obj\Debug\net5.0\compra en restaurante.csproj.CoreCompileInputs.cache
+C:\Users\Robinson.Orrego\Documents\c#\compra en restaurante\compra en restaurante\obj\Debug\net5.0\compra en restaurante.dll
+C:\Users\Robinson.Orrego\Documents\c#\compra en restaurante\compra en restaurante\obj\Debug\net5.0\ref\compra en restaurante.dll
+C:\Users\Robinson.Orrego\Documents\c#\compra en restaurante\compra en restaurante\obj\Debug\net5.0\compra en restaurante.pdb
+C:\Users\Robinson.Orrego\Documents\c#\compra en restaurante\compra en restaurante\obj\Debug\net5.0\compra en restaurante.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Robinson.Orrego\Documents\c#\mayor de tres numeros\mayor de tres numeros\bin\Debug\net5.0\mayor de tres numeros.exe
+C:\Users\Robinson.Orrego\Documents\c#\mayor de tres numeros\mayor de tres numeros\bin\Debug\net5.0\mayor de tres numeros.deps.json
+C:\Users\Robinson.Orrego\Documents\c#\mayor de tres numeros\mayor de tres numeros\bin\Debug\net5.0\mayor de tres numeros.runtimeconfig.json
+C:\Users\Robinson.Orrego\Documents\c#\mayor de tres numeros\mayor de tres numeros\bin\Debug\net5.0\mayor de tres numeros.runtimeconfig.dev.json
+C:\Users\Robinson.Orrego\Documents\c#\mayor de tres numeros\mayor de tres numeros\bin\Debug\net5.0\mayor de tres numeros.dll
+C:\Users\Robinson.Orrego\Documents\c#\mayor de tres numeros\mayor de tres numeros\bin\Debug\net5.0\ref\mayor de tres numeros.dll
+C:\Users\Robinson.Orrego\Documents\c#\mayor de tres numeros\mayor de tres numeros\bin\Debug\net5.0\mayor de tres numeros.pdb
+C:\Users\Robinson.Orrego\Documents\c#\mayor de tres numeros\mayor de tres numeros\obj\Debug\net5.0\mayor de tres numeros.csproj.AssemblyReference.cache
+C:\Users\Robinson.Orrego\Documents\c#\mayor de tres numeros\mayor de tres numeros\obj\Debug\net5.0\mayor de tres numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robinson.Orrego\Documents\c#\mayor de tres numeros\mayor de tres numeros\obj\Debug\net5.0\mayor de tres numeros.AssemblyInfoInputs.cache
+C:\Users\Robinson.Orrego\Documents\c#\mayor de tres numeros\mayor de tres numeros\obj\Debug\net5.0\mayor de tres numeros.AssemblyInfo.cs
+C:\Users\Robinson.Orrego\Documents\c#\mayor de tres numeros\mayor de tres numeros\obj\Debug\net5.0\mayor de tres numeros.csproj.CoreCompileInputs.cache
+C:\Users\Robinson.Orrego\Documents\c#\mayor de tres numeros\mayor de tres numeros\obj\Debug\net5.0\mayor de tres numeros.dll
+C:\Users\Robinson.Orrego\Documents\c#\mayor de tres numeros\mayor de tres numeros\obj\Debug\net5.0\ref\mayor de tres numeros.dll
+C:\Users\Robinson.Orrego\Documents\c#\mayor de tres numeros\mayor de tres numeros\obj\Debug\net5.0\mayor de tres numeros.pdb
+C:\Users\Robinson.Orrego\Documents\c#\mayor de tres numeros\mayor de tres numeros\obj\Debug\net5.0\mayor de tres numeros.genruntimeconfig.cache

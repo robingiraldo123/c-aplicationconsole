@@ -1,0 +1,16 @@
+C:\Users\Robinson.Orrego\Documents\c#\INVERTIR NÚMERO DE DOS CIFRAS\INVERTIR NÚMERO DE DOS CIFRAS\bin\Debug\net5.0\INVERTIR NÚMERO DE DOS CIFRAS.exe
+C:\Users\Robinson.Orrego\Documents\c#\INVERTIR NÚMERO DE DOS CIFRAS\INVERTIR NÚMERO DE DOS CIFRAS\bin\Debug\net5.0\INVERTIR NÚMERO DE DOS CIFRAS.deps.json
+C:\Users\Robinson.Orrego\Documents\c#\INVERTIR NÚMERO DE DOS CIFRAS\INVERTIR NÚMERO DE DOS CIFRAS\bin\Debug\net5.0\INVERTIR NÚMERO DE DOS CIFRAS.runtimeconfig.json
+C:\Users\Robinson.Orrego\Documents\c#\INVERTIR NÚMERO DE DOS CIFRAS\INVERTIR NÚMERO DE DOS CIFRAS\bin\Debug\net5.0\INVERTIR NÚMERO DE DOS CIFRAS.runtimeconfig.dev.json
+C:\Users\Robinson.Orrego\Documents\c#\INVERTIR NÚMERO DE DOS CIFRAS\INVERTIR NÚMERO DE DOS CIFRAS\bin\Debug\net5.0\INVERTIR NÚMERO DE DOS CIFRAS.dll
+C:\Users\Robinson.Orrego\Documents\c#\INVERTIR NÚMERO DE DOS CIFRAS\INVERTIR NÚMERO DE DOS CIFRAS\bin\Debug\net5.0\ref\INVERTIR NÚMERO DE DOS CIFRAS.dll
+C:\Users\Robinson.Orrego\Documents\c#\INVERTIR NÚMERO DE DOS CIFRAS\INVERTIR NÚMERO DE DOS CIFRAS\bin\Debug\net5.0\INVERTIR NÚMERO DE DOS CIFRAS.pdb
+C:\Users\Robinson.Orrego\Documents\c#\INVERTIR NÚMERO DE DOS CIFRAS\INVERTIR NÚMERO DE DOS CIFRAS\obj\Debug\net5.0\INVERTIR NÚMERO DE DOS CIFRAS.csproj.AssemblyReference.cache
+C:\Users\Robinson.Orrego\Documents\c#\INVERTIR NÚMERO DE DOS CIFRAS\INVERTIR NÚMERO DE DOS CIFRAS\obj\Debug\net5.0\INVERTIR NÚMERO DE DOS CIFRAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robinson.Orrego\Documents\c#\INVERTIR NÚMERO DE DOS CIFRAS\INVERTIR NÚMERO DE DOS CIFRAS\obj\Debug\net5.0\INVERTIR NÚMERO DE DOS CIFRAS.AssemblyInfoInputs.cache
+C:\Users\Robinson.Orrego\Documents\c#\INVERTIR NÚMERO DE DOS CIFRAS\INVERTIR NÚMERO DE DOS CIFRAS\obj\Debug\net5.0\INVERTIR NÚMERO DE DOS CIFRAS.AssemblyInfo.cs
+C:\Users\Robinson.Orrego\Documents\c#\INVERTIR NÚMERO DE DOS CIFRAS\INVERTIR NÚMERO DE DOS CIFRAS\obj\Debug\net5.0\INVERTIR NÚMERO DE DOS CIFRAS.csproj.CoreCompileInputs.cache
+C:\Users\Robinson.Orrego\Documents\c#\INVERTIR NÚMERO DE DOS CIFRAS\INVERTIR NÚMERO DE DOS CIFRAS\obj\Debug\net5.0\INVERTIR NÚMERO DE DOS CIFRAS.dll
+C:\Users\Robinson.Orrego\Documents\c#\INVERTIR NÚMERO DE DOS CIFRAS\INVERTIR NÚMERO DE DOS CIFRAS\obj\Debug\net5.0\ref\INVERTIR NÚMERO DE DOS CIFRAS.dll
+C:\Users\Robinson.Orrego\Documents\c#\INVERTIR NÚMERO DE DOS CIFRAS\INVERTIR NÚMERO DE DOS CIFRAS\obj\Debug\net5.0\INVERTIR NÚMERO DE DOS CIFRAS.pdb
+C:\Users\Robinson.Orrego\Documents\c#\INVERTIR NÚMERO DE DOS CIFRAS\INVERTIR NÚMERO DE DOS CIFRAS\obj\Debug\net5.0\INVERTIR NÚMERO DE DOS CIFRAS.genruntimeconfig.cache

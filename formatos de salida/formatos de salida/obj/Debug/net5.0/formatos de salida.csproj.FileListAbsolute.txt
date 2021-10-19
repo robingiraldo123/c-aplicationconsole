@@ -1,0 +1,16 @@
+C:\Users\Robinson.Orrego\Documents\c#\formatos de salida\formatos de salida\bin\Debug\net5.0\formatos de salida.exe
+C:\Users\Robinson.Orrego\Documents\c#\formatos de salida\formatos de salida\bin\Debug\net5.0\formatos de salida.deps.json
+C:\Users\Robinson.Orrego\Documents\c#\formatos de salida\formatos de salida\bin\Debug\net5.0\formatos de salida.runtimeconfig.json
+C:\Users\Robinson.Orrego\Documents\c#\formatos de salida\formatos de salida\bin\Debug\net5.0\formatos de salida.runtimeconfig.dev.json
+C:\Users\Robinson.Orrego\Documents\c#\formatos de salida\formatos de salida\bin\Debug\net5.0\formatos de salida.dll
+C:\Users\Robinson.Orrego\Documents\c#\formatos de salida\formatos de salida\bin\Debug\net5.0\ref\formatos de salida.dll
+C:\Users\Robinson.Orrego\Documents\c#\formatos de salida\formatos de salida\bin\Debug\net5.0\formatos de salida.pdb
+C:\Users\Robinson.Orrego\Documents\c#\formatos de salida\formatos de salida\obj\Debug\net5.0\formatos de salida.csproj.AssemblyReference.cache
+C:\Users\Robinson.Orrego\Documents\c#\formatos de salida\formatos de salida\obj\Debug\net5.0\formatos de salida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robinson.Orrego\Documents\c#\formatos de salida\formatos de salida\obj\Debug\net5.0\formatos de salida.AssemblyInfoInputs.cache
+C:\Users\Robinson.Orrego\Documents\c#\formatos de salida\formatos de salida\obj\Debug\net5.0\formatos de salida.AssemblyInfo.cs
+C:\Users\Robinson.Orrego\Documents\c#\formatos de salida\formatos de salida\obj\Debug\net5.0\formatos de salida.csproj.CoreCompileInputs.cache
+C:\Users\Robinson.Orrego\Documents\c#\formatos de salida\formatos de salida\obj\Debug\net5.0\formatos de salida.dll
+C:\Users\Robinson.Orrego\Documents\c#\formatos de salida\formatos de salida\obj\Debug\net5.0\ref\formatos de salida.dll
+C:\Users\Robinson.Orrego\Documents\c#\formatos de salida\formatos de salida\obj\Debug\net5.0\formatos de salida.pdb
+C:\Users\Robinson.Orrego\Documents\c#\formatos de salida\formatos de salida\obj\Debug\net5.0\formatos de salida.genruntimeconfig.cache
